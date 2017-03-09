@@ -1,0 +1,27 @@
+{
+  "name": "tomek-bot",
+  "version": "1.0.0",
+  "description": "Simple messenger bot replacing Tomek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlass/tomek-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "messanger",
+    "tomek"
+  ],
+  "author": "Marcin Lasak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marlass/tomek-bot/issues"
+  },
+  "homepage": "https://github.com/marlass/tomek-bot#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^2.15.0"
+  }
+}
